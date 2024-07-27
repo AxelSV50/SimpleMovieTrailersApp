@@ -12,15 +12,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  margin: 0;
-  padding: 0;
+
 }
 
 body{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
+  margin: 0;
+  padding: 0;
 }
 
 @media (prefers-color-scheme: light) {
